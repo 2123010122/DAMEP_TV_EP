@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">DAM_EP_TV</string>
+    <string name="nombre_txt" />
+    <string name="nombre_lbl">Apellidos y Nombre\n</string>
+    <string name="correo_txt" />
+    <string name="clave_txt" />
+    <string name="telefono_txt" />
+    <string name="fecha_nacimiento_txt" />
+    <string name="Hora_nacimiento_txt" />
+    <string name="rural_check">Rural</string>
+    <string name="urbano_check">Urbano</string>
+    <string name="personas_qty_txt" />
+    <string name="sueldo_txt" />
+    <string name="opinion_bono_txt" />
+    <string name="gato_txt">Gato</string>
+    <string name="gato_check">GATO</string>
+    <string name="pollo_check">POLLO</string>
+    <string name="otro_check">OTRO</string>
+    <string name="perro_check">PERRO</string>
+    <string name="pato_check">PATO</string>
+    <string name="btn_enviar">Enviar</string>
+    <string name="title_label">Censo DAM 2024</string>
 </resources>
